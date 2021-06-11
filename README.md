@@ -1,2 +1,2 @@
-# A minesweeper game where the user chooses to play (via input).
-#A spelling correction utilizing textBlob
+#A minesweeper game where the user gives input
+#A spelling correction using text blob
